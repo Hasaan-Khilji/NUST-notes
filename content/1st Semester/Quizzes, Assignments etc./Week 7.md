@@ -27,4 +27,4 @@
 - [ ] Graphics and Design Quiz ⏳ 2026-10-16
 	- Everything done until now
 - [ ] Introductory Mechanics 
-	- [[Introductory_Mechanics_Assignment_1.pdf]]
+	- [Introductory_Mechanics_Assignment_1.pdf](https://drive.google.com/file/d/1t6uFeR5MzvmtW8TnWUOx-DbUWye7HJZO/view?usp=drive_link)
