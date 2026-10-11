@@ -18,6 +18,6 @@ You can use the sidebar to navigate, and also
 - [[1st Semester/index|1st Semester Hub]]
 <br>
 # Resources
-- [[Resources/index|Resources]]
+- [[Resources/resources|Resources]]
 # Projects
 - Nothing here (yet)
