@@ -1,16 +1,16 @@
 #### Monday
-- [ ] Calculus-I Quiz ⏳ 2026-10-12
+- [x] Calculus-I Quiz ⏰ 2026-10-12 ⏳ 2026-10-12 ✅ 2026-10-12
 	- Functions (1.1, 1.2, & 1.6)
 <br>
-- [ ] Introductory Mechanics Lab Viva
+- [-] Introductory Mechanics Lab Viva
 	- Lab report # 4
 	- for those who didn't give viva on 5th Oct
 
 #### Tuesday
-- [ ] Fundamentals of Programming Lab Quiz ⏳ 2026-10-13
+- [x] Fundamentals of Programming Lab Quiz ⏰ 2026-10-13 12:14 ⏳ 2026-10-13 ✅ 2026-10-13
 	- Everything we've done until switch (inclusive)
 <br>
-- [ ] Calculus-I Assignement 📅 2026-10-13
+- [ ] Calculus-I Assignement ⏰ 2026-10-13 12:14 📅 2026-10-13 
 	- These [four questions](https://drive.google.com/file/d/1jJBUMFGimKYWSRsc9ZYbmdjGRhW45Tf1/view?usp=drivesdk) (3rd is optional)
 	- And this [optional one](https://drive.google.com/file/d/12Nsq-CiE7KwAAIpPQ7MyjjdUb_xUiEKn/view?usp=drivesdk)
 
