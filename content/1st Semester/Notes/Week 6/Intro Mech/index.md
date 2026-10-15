@@ -1,7 +1,9 @@
 # Introductory Mechanics Lab (Week 6)
 <br>
+
 ### Velocity of Projectile
-![[Drawing 2026-10-12 10.14.45.excalidraw]]
+
+![[Mini Launcher.svg]]
 
 $$
 s = vt \\\\

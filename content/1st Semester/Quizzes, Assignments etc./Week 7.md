@@ -8,8 +8,9 @@
     - 
 
 #### Wednesday
-- [ ]
-    - 
+- [ ] Understanding of Qur'an Quiz
+    - Unit # 2 full
+    - Unit # 3, Lesson # 1 - 7
 
 #### Thursday
 - [ ] Graphics and Design Assignment 📅 2026-10-22

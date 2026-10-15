@@ -10,19 +10,19 @@
 - [x] Fundamentals of Programming Lab Quiz ⏰ 2026-10-13 12:14 ⏳ 2026-10-13 ✅ 2026-10-13
 	- Everything we've done until switch (inclusive)
 <br>
-- [ ] Calculus-I Assignement ⏰ 2026-10-13 12:14 📅 2026-10-13 
+- [x] Calculus-I Assignement ⏰ 2026-10-13 12:14 📅 2026-10-13 ✅ 2026-10-13
 	- These [four questions](https://drive.google.com/file/d/1jJBUMFGimKYWSRsc9ZYbmdjGRhW45Tf1/view?usp=drivesdk) (3rd is optional)
 	- And this [optional one](https://drive.google.com/file/d/12Nsq-CiE7KwAAIpPQ7MyjjdUb_xUiEKn/view?usp=drivesdk)
 
 ####  Wednesday
-- [ ] Pakistan Studies Group Activity ⏳ 2026-10-14
+- [x] Pakistan Studies Group Activity ⏰ 2026-10-14 ⏳ 2026-10-14 ✅ 2026-10-14
 	- Graded group activity
 <br>
-- [ ] Functional English Quiz ⏳ 2026-10-14
+- [x] Functional English Quiz ⏰ 2026-10-14 ⏳ 2026-10-14 ✅ 2026-10-14
 	- Phonetics and Phonology (full)
 	- Phrases, Clauses and Sentences (first 23 slides)
 <br>
-- [ ] Understanding of Holy Qur'an Quiz Retake ⏳ 2026-10-14
+- [x] Understanding of Holy Qur'an Quiz Retake ⏰ 2026-10-14 ⏳ 2026-10-14 ✅ 2026-10-14
 	- For those who couldn't give it on 30th Sep
 
 #### Thursday
