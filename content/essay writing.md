@@ -82,7 +82,7 @@ Topic: Why should university education be free?
 
 ### The Body
 
-The body of the essay is the main part 
+The body of the essay is its main part. It has all the main points in detail.  
 
 ##### Evidence and Analysis
 
