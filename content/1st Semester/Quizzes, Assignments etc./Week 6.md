@@ -1,3 +1,6 @@
+
+# Week 6 Quizzes and Assignments
+
 #### Monday
 - [x] Calculus-I Quiz ⏰ 2026-10-12 ⏳ 2026-10-12 ✅ 2026-10-12
 	- Functions (1.1, 1.2, & 1.6)
@@ -26,10 +29,10 @@
 	- For those who couldn't give it on 30th Sep
 
 #### Thursday
-- [ ] Nothing. Enjoy 🎉🎉🎉
+- [x] Nothing. Enjoy 🎉🎉🎉 ✅ 2026-10-15
 
 #### Friday
-- [ ] Graphics and Design Quiz ⏳ 2026-10-16
+- [x] Graphics and Design Quiz ⏰ 2026-10-16 12:12 ⏳ 2026-10-16 ✅ 2026-10-16
 	- Everything done until now
 <br>
 - [ ] Introductory Mechanics 

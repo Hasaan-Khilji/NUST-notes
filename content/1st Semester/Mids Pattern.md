@@ -1,4 +1,4 @@
-#pattern
+ #pattern
 
 # Mids Pattern
 
@@ -13,3 +13,12 @@
 | C++ Program-1         | 7      |
 | C++ Program-2         | 8      |
 
+- # Pak studies
+
+| **Total**             | **40** |
+| --------------------- | ------ |
+| MCQs                  | 15     |
+| Long Question         | 2 x 10 |
+| Errors identification | 5      |
+| C++ Program-1         | 7      |
+| C++ Program-2         | 8      |
