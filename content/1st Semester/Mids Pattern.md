@@ -13,12 +13,20 @@
 | C++ Program-1         | 7      |
 | C++ Program-2         | 8      |
 
-- # Pak studies
+- ### HU-107 Pakistan Studies
 
 | **Total**             | **40** |
 | --------------------- | ------ |
 | MCQs                  | 15     |
 | Long Question         | 2 x 10 |
-| Errors identification | 5      |
-| C++ Program-1         | 7      |
-| C++ Program-2         | 8      |
+- ### HU-110 Functional English
+
+
+| Total             |     |
+| ----------------- | --- |
+| MCQs (grammer)    |     |
+| Paragraph Writing |     |
+| or                |     |
+| Essay Writing     |     |
+
+
